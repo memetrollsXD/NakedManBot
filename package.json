@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "colorts": "^0.1.63",
+    "discord.js-selfbot-v13": "^2.3.61"
+  },
+  "scripts": {
+    "start": "npx ts-node-dev src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
