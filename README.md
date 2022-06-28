@@ -9,7 +9,7 @@ A simple discord selfbot structure made in TypeScript.
 4. `npm start`
 
 ## Commands
-There are no commands implemented, but you can easily make your own by checking out src/handlers/default.ts
+There are no commands implemented, but you can easily make your own by checking out [the default handler](https://github.com/memetrollsXD/NakedManBot/blob/main/src/handlers/default.ts).
 
 ```ts
 export default class Command {
