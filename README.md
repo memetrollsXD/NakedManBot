@@ -18,4 +18,5 @@ export default class Command {
     public readonly message: Message;
 
     public reply(message: string): void;
+}
 ```
